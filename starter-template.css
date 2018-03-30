@@ -1,0 +1,76 @@
+body {
+/*  padding-top: 50px;
+*/}
+.starter-template {
+  padding: 40px 15px;
+  text-align: center;
+}
+
+.navbar-inverse .navbar-brand{
+      color: blue;
+}
+
+
+
+body, html {
+    height: 100%;
+}
+
+.bg { 
+    /* The image used */
+    background-image: url("images/TNS.jpg");
+
+    /* Full height */
+    height: 100%; 
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+. {
+    line-height: 20px;
+    margin: 5px;
+    padding: 2px;
+}
+
+.navbar-inverse .navbar-brand {
+    color: White;
+}
+
+
+body {
+   background-color: #cccccc;
+}
+
+
+.naw{
+    display: block;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+
+
+
+
+
+
+
+
+
+body {
+  background-color: #000001;
+  transition: 2s;
+}
+
+#container {
+  text-align: center;
+  color: #ffffff;
+  font-family: arial, helvetica, sans-serif;
+  font-weight: bolder;
+  font-size: 120px;
+  text-transform: uppercase;
+  transition: 1s;
+}
